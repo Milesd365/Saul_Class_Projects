@@ -1,0 +1,9 @@
+Habitat Modeling for Species Distribution
+Miles Dakin
+Ecologists strive to understand factors that influence what habitats species are located in.
+Examining the habitat characteristics allows for these factors to be isolated, and predictions about species distribution to be made.
+These factors however may very dramatically between habitats of similar types. Using machine learning techniques, algorithms may be developed to examine large data sets and be able to make more accurate predictions about these distributions.
+This is important for many reasons, primarily in understanding the ecology of certain species as well as aiding in conservation efforts.
+Using known environmental and abundance data for certain habitats, this algorithm will slowly learn to make predictions.
+The input space for this project would be environmental data, giving an output of species abundance for that area. Various datasets are available for species distribution and habitat data online. I would like some supervision for this project, due to my lack of experience with machine learning.
+I am comfortable with interpreting the biological data, but setting up the specific algorithm is where I see challenges arising.
